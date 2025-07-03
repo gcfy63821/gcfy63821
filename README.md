@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m a junior student at THU, Department of Automation
-- 🌱 I’m interested in HRI, Computer Vision, Imitation learning and RL
+- 🌱 I’m interested in HRI, Robotics learning & control and Computer Vision
 - 💬 Always up for a chat or a cool collaboration! Let’s build something awesome together
 - 📫 Hit me up at: chenrq22@mails.tsinghua.edu.cn
 - ⚡ When I'm not coding, you’ll probably find me: Sprinting, playing table tennis, tennis, swimming, fencing, orienteering, badminton, basketball, or football
