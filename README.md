@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m a junior student in THU, Department of Automation
+- 🔭 I’m a junior student at THU, Department of Automation
 - 🌱 I’m currently learning Computer Vision, Imitation learning and RL
-- 💬 Feel free to reach out for chat and collaboration!
-- 📫 How to reach me: chenrq22@mails.tsinghua.edu.cn
-- ⚡ Sports: Sprintin, table tennis, tennis, swimming, fiercing, orienteering, badminton, basketball, football
+- 💬 Always up for a chat or a cool collaboration! Let’s build something awesome together
+- 📫 Hit me up at: chenrq22@mails.tsinghua.edu.cn
+- ⚡ When I'm not coding, you’ll probably find me: Sprinting, playing table tennis, tennis, swimming, fencing, orienteering, badminton, basketball, or football
 
 My  
 ![Visitor Count](https://profile-counter.glitch.me/gcfy63821/count.svg)  
