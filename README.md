@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!--
 **gcfy63821/gcfy63821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m an incoming PhD at IIIS, Tsinghua University. I received my Bachelor's degree at Department of Automation, Tsinghua University.
+- 🔭 I’m a first-year PhD at IIIS, Tsinghua University. I received my Bachelor's degree at Department of Automation, Tsinghua University.
 - 🌱 I’m interested in Dexterous Manipulation, Robot Learning, Computer Vision and Automatic Control.
-- 💬 Always up for a chat or a cool collaboration! Let’s build something awesome together
-- 📫 Hit me up at: chenrq22@mails.tsinghua.edu.cn
-- ⚡ When I'm not coding, you’ll probably find me: Sprinting, playing table tennis, tennis, swimming, fencing, orienteering, badminton, basketball, or football
+- 📫 My personal website: ruoqu.cc
